@@ -13,7 +13,8 @@ def link
   puts phrase
 end
 
-def all_phrases do
-  it "puts out all of the previous catch phrases"
-do
-    
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
+end
